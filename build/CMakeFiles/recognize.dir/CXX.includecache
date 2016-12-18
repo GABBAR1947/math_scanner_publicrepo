@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabbar1947/another-math-scanner/src/recognize.cpp
+recognize.hpp
+/Users/gabbar1947/another-math-scanner/src/recognize.hpp
+cmath
+-
+algorithm
+-
+
+/Users/gabbar1947/another-math-scanner/src/recognize.hpp
+opencv2/core.hpp
+-
+opencv2/imgproc.hpp
+-
+opencv2/objdetect.hpp
+-
+opencv2/highgui.hpp
+-
+dirent.h
+-
+fstream
+-
+iostream
+-
+

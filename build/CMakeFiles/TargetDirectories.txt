@@ -1,0 +1,5 @@
+/Users/gabbar1947/another-math-scanner/build/CMakeFiles/rebuild_cache.dir
+/Users/gabbar1947/another-math-scanner/build/CMakeFiles/edit_cache.dir
+/Users/gabbar1947/another-math-scanner/build/CMakeFiles/recognize.dir
+/Users/gabbar1947/another-math-scanner/build/CMakeFiles/imgproc.dir
+/Users/gabbar1947/another-math-scanner/build/CMakeFiles/main.dir

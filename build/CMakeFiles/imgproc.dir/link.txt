@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libimgproc.a  CMakeFiles/imgproc.dir/src/imgproc.cpp.o CMakeFiles/imgproc.dir/src/utils.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libimgproc.a
